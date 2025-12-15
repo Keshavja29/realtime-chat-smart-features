@@ -1,0 +1,36 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+.mvn/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Node
+node_modules/
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Environment
+.env
+application-local.properties
+
+# Logs
+*.log
+
+# Database
+*.db
+dump.rdb
